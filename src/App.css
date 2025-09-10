@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  background-color: #fafafa;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.insta-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.login-box {
+  background-color: white;
+  border: 1px solid #dbdbdb;
+  padding: 40px;
+  width: 350px;
+  text-align: center;
+}
+
+.logo {
+  width: 175px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 6px 0;
+  border: 1px solid #dbdbdb;
+  border-radius: 3px;
+  background: #fafafa;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #0095f6;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.divider {
+  margin: 20px 0;
+  color: #8e8e8e;
+}
+
+.signup {
+  font-size: 14px;
+}
+
+.signup span {
+  color: #0095f6;
+  cursor: pointer;
+}
+  
